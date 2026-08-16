@@ -9,52 +9,18 @@ const profileData = {
             "email": "dharmender@example.com",
             "phone": "+91 98765 43210",
             "availability": "Available for freelance and full-time opportunities",
-            "avatar": "https://i.pravatar.cc/600?img=12",
+            "avatar": "https://media.licdn.com/dms/image/v2/D5635AQExipBgpg3e0w/profile-framedphoto-shrink_800_800/B56ZUGzOjXGQAg-/0/1739575847492?e=1787500800&v=beta&t=l5RamVZep7o3ELIfgsGuykctm29sOJ2nInySq2OAlzw",
             "resume": "/assets/dharmender-kumar-resume.pdf"
         },
 
         "socials": {
-            "github": "https://github.com/dharmenderkumar",
-            "linkedin": "https://linkedin.com/in/dharmenderkumar",
+            "github": "https://github.com/dkt882",
+            "linkedin": "https://linkedin.com/in/dkt882",
             "twitter": "https://twitter.com/dharmenderdev",
             "instagram": "https://instagram.com/dharmender.dev"
         },
 
-        "stats": [
-            {
-                "label": "Years Experience",
-                "value": "4+"
-            },
-            {
-                "label": "Projects Completed",
-                "value": "35+"
-            },
-            {
-                "label": "Technologies",
-                "value": "15+"
-            },
-            {
-                "label": "Happy Clients",
-                "value": "20+"
-            }
-        ],
-
         "skills": [
-            {
-                "name": "HTML",
-                "level": 95,
-                "category": "Frontend"
-            },
-            {
-                "name": "CSS",
-                "level": 92,
-                "category": "Frontend"
-            },
-            {
-                "name": "JavaScript",
-                "level": 90,
-                "category": "Frontend"
-            },
             {
                 "name": "TypeScript",
                 "level": 85,
@@ -63,16 +29,6 @@ const profileData = {
             {
                 "name": "React",
                 "level": 92,
-                "category": "Frontend"
-            },
-            {
-                "name": "Next.js",
-                "level": 88,
-                "category": "Frontend"
-            },
-            {
-                "name": "Tailwind CSS",
-                "level": 94,
                 "category": "Frontend"
             },
             {
@@ -89,21 +45,6 @@ const profileData = {
                 "name": "MongoDB",
                 "level": 82,
                 "category": "Database"
-            },
-            {
-                "name": "PostgreSQL",
-                "level": 78,
-                "category": "Database"
-            },
-            {
-                "name": "Git",
-                "level": 90,
-                "category": "Tools"
-            },
-            {
-                "name": "Figma",
-                "level": 82,
-                "category": "Design"
             }
         ],
 
@@ -131,18 +72,6 @@ const profileData = {
                 "title": "Landing Pages",
                 "description": "Creating conversion-focused landing pages for products, startups, portfolios, and businesses.",
                 "icon": "monitor"
-            },
-            {
-                "id": 5,
-                "title": "Website Optimization",
-                "description": "Improving website performance, accessibility, responsiveness, SEO, and overall user experience.",
-                "icon": "zap"
-            },
-            {
-                "id": 6,
-                "title": "API Development",
-                "description": "Designing and developing secure REST APIs and backend services for modern applications.",
-                "icon": "server"
             }
         ],
 
@@ -229,83 +158,6 @@ const profileData = {
                 "github": "https://github.com/dharmenderkumar/fintrack",
                 "live": "https://fintrack-demo.example.com",
                 "featured": false
-            },
-            {
-                "id": 4,
-                "slug": "devfolio",
-                "title": "DevFolio",
-                "description": "A developer portfolio template focused on clean typography, smooth interactions, and responsive layouts.",
-                "longDescription": "DevFolio is a modern portfolio experience created for developers and designers who want to showcase their work without unnecessary visual clutter.",
-                "image": "https://picsum.photos/seed/devfolio/1200/800",
-                "category": "Portfolio",
-                "technologies": [
-                    "Next.js",
-                    "Tailwind CSS",
-                    "Framer Motion"
-                ],
-                "features": [
-                    "Responsive design",
-                    "Project showcase",
-                    "Dark mode",
-                    "Animated sections",
-                    "Contact form",
-                    "SEO optimization"
-                ],
-                "github": "https://github.com/dharmenderkumar/devfolio",
-                "live": "https://devfolio-demo.example.com",
-                "featured": true
-            },
-            {
-                "id": 5,
-                "slug": "foodie",
-                "title": "Foodie",
-                "description": "A restaurant discovery and food ordering interface with menus, search, filters, and restaurant profiles.",
-                "longDescription": "Foodie is a food discovery experience designed around fast navigation and visual browsing. Users can explore restaurants, view menus, filter results, and add items to their order.",
-                "image": "https://picsum.photos/seed/foodie/1200/800",
-                "category": "Web Application",
-                "technologies": [
-                    "React",
-                    "JavaScript",
-                    "CSS",
-                    "Node.js"
-                ],
-                "features": [
-                    "Restaurant discovery",
-                    "Menu browsing",
-                    "Food search",
-                    "Category filters",
-                    "Cart functionality",
-                    "Restaurant profiles"
-                ],
-                "github": "https://github.com/dharmenderkumar/foodie",
-                "live": "https://foodie-demo.example.com",
-                "featured": false
-            },
-            {
-                "id": 6,
-                "slug": "learnhub",
-                "title": "LearnHub",
-                "description": "An online learning platform interface for discovering courses, tracking progress, and managing learning goals.",
-                "longDescription": "LearnHub is an educational platform concept focused on making online learning easier to navigate. Students can explore courses, save lessons, track progress, and manage their learning journey.",
-                "image": "https://picsum.photos/seed/learnhub/1200/800",
-                "category": "Education",
-                "technologies": [
-                    "Next.js",
-                    "TypeScript",
-                    "Tailwind CSS",
-                    "PostgreSQL"
-                ],
-                "features": [
-                    "Course discovery",
-                    "Student dashboard",
-                    "Progress tracking",
-                    "Course categories",
-                    "Lesson pages",
-                    "User profiles"
-                ],
-                "github": "https://github.com/dharmenderkumar/learnhub",
-                "live": "https://learnhub-demo.example.com",
-                "featured": false
             }
         ],
 
@@ -378,33 +230,6 @@ const profileData = {
             }
         ],
 
-        "testimonials": [
-            {
-                "id": 1,
-                "name": "Rahul Sharma",
-                "role": "Startup Founder",
-                "company": "BuildLabs",
-                "avatar": "https://i.pravatar.cc/150?img=33",
-                "text": "Dharmender was excellent to work with. He understood the product quickly, paid attention to the smallest UI details, and delivered a fast and polished application."
-            },
-            {
-                "id": 2,
-                "name": "Priya Mehta",
-                "role": "Product Designer",
-                "company": "DesignCraft",
-                "avatar": "https://i.pravatar.cc/150?img=45",
-                "text": "What I appreciated most about working with Dharmender was his ability to translate design ideas into clean, responsive interfaces without losing the original vision."
-            },
-            {
-                "id": 3,
-                "name": "Aman Verma",
-                "role": "Business Owner",
-                "company": "GrowthWorks",
-                "avatar": "https://i.pravatar.cc/150?img=59",
-                "text": "Professional, communicative, and technically strong. The website was delivered on time and performed much better than our previous version."
-            }
-        ],
-
         "about": {
             "title": "A little bit about me",
             "paragraphs": [
@@ -414,33 +239,6 @@ const profileData = {
             ]
         },
 
-        "workflow": [
-            {
-                "step": 1,
-                "title": "Understand",
-                "description": "I start by understanding the problem, goals, users, and requirements before writing code."
-            },
-            {
-                "step": 2,
-                "title": "Plan",
-                "description": "I break the project into clear milestones, define the technical approach, and identify potential challenges."
-            },
-            {
-                "step": 3,
-                "title": "Design",
-                "description": "I focus on creating clean layouts, intuitive interactions, and responsive experiences."
-            },
-            {
-                "step": 4,
-                "title": "Build",
-                "description": "I develop the product using reusable components, clean architecture, and modern development practices."
-            },
-            {
-                "step": 5,
-                "title": "Refine",
-                "description": "I test, optimize, fix edge cases, and polish the experience before launch."
-            }
-        ],
 
         "contact": {
             "title": "Let's build something great together.",
