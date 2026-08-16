@@ -3,12 +3,13 @@ import dotenv from 'dotenv';
 import blogsRouter  from "./routes/blogs.route.js"
 import portfolioRouter  from "./routes/portfolio.route.js"
 import productRouter  from "./routes/products.route.js"
+import cors from "cors"
 
 
 
 dotenv.config()
 const app = express()
-
+app.use(cors())
 app.use('/api',blogsRouter)
 app.use('/api',portfolioRouter)
 app.use('/api',productRouter)
