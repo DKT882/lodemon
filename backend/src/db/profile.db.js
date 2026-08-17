@@ -234,8 +234,7 @@ const profileData = {
             "title": "A little bit about me",
             "paragraphs": [
                 "I'm a developer who enjoys turning complex problems into simple and useful digital experiences. My work sits at the intersection of engineering, design, and product thinking.",
-                "I started my journey by experimenting with simple websites and gradually moved into building full-scale web applications. Along the way, I developed a strong interest in frontend architecture, interaction design, and performance.",
-                "Today, I work primarily with JavaScript, React, Next.js, Node.js, and modern CSS technologies. I enjoy learning new tools, experimenting with new ideas, and building products that people genuinely enjoy using."
+                "I started my journey by experimenting with simple websites and gradually moved into building full-scale web applications."
             ]
         },
 
