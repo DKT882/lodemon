@@ -1,6 +1,5 @@
 import React from "react";
 
-// Simple reusable Button component in JS syntax
 function Button({ onClick, children, style }) {
   const defaultStyle = {
     padding: "8px 12px",
