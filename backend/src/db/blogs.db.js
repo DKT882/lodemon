@@ -1010,6 +1010,250 @@ const blogData = {
                     "text": "Great photography starts with curiosity. Pay attention to light, look for interesting moments, simplify your compositions, and practice regularly. The equipment can come later."
                 }
             ]
+        },
+        {
+            "id": 11,
+            "slug": "small-steps-to-better-health",
+            "title": "Small Steps to Better Everyday Health",
+            "excerpt": "Better health is often built through simple routines and gradual decisions rather than dramatic overhauls.",
+            "category": "Wellness",
+            "author": {
+                "name": "Harper Lee",
+                "role": "Wellness Coach",
+                "avatar": "https://i.pravatar.cc/150?img=29"
+            },
+            "publishedAt": "2026-06-18",
+            "readTime": "7 min read",
+            "featuredImage": "https://picsum.photos/seed/health/1400/800",
+            "tags": ["Wellness", "Health", "Habits", "Lifestyle"],
+            "featured": false,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Health is rarely transformed by one perfect decision. It is usually shaped by a series of manageable choices repeated over time."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Start With the Basics"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Sleep, movement, hydration, and food quality matter more than trendy routines. These foundations have a larger impact than most shortcuts or quick fixes."
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        "Move your body daily",
+                        "Drink water consistently",
+                        "Get enough sleep",
+                        "Choose meals that keep you energized",
+                        "Reduce unnecessary stress where possible"
+                    ]
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Make Change Sustainable"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A habit that fits your real life is more valuable than a perfect system you cannot maintain. Build your routines around what is realistic and enjoyable."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Final Thoughts"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Strong health is not built in a day. It is built through repeated moments of attention and care."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "slug": "startups-that-build-quietly",
+            "title": "Why the Best Startups Build Quietly",
+            "excerpt": "Some of the most durable companies grow carefully, win trust gradually, and keep product quality at the center of their story.",
+            "category": "Business",
+            "author": {
+                "name": "Priya Shah",
+                "role": "Startup Analyst",
+                "avatar": "https://i.pravatar.cc/150?img=60"
+            },
+            "publishedAt": "2026-06-09",
+            "updatedAt": "2026-06-10",
+            "readTime": "8 min read",
+            "featuredImage": "https://picsum.photos/seed/startups/1400/800",
+            "tags": ["Startups", "Business", "Strategy", "Growth"],
+            "featured": true,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "A noisy launch is not always a strong launch. In competitive markets, founders often feel pressure to announce early, promise big outcomes, and chase attention before the product is truly ready."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The companies that tend to last are often the ones that build with discipline. They release when the experience is solid, listen closely to early users, and improve before expanding."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Trust Takes Time"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A product can be impressive in a demo and still fail in the real world. Real traction comes from solving the actual problems people face repeatedly."
+                },
+                {
+                    "type": "quote",
+                    "text": "Quiet confidence often outlasts loud momentum."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Final Thoughts"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "The best startup stories often look slower from the outside, but they can be much more resilient in the long run."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "slug": "city-walks-that-change-your-day",
+            "title": "City Walks That Change the Way You See a Place",
+            "excerpt": "A slow walk through a city can reveal more than a packed itinerary, especially when you let your attention wander a little longer.",
+            "category": "Travel",
+            "author": {
+                "name": "Marta Rossi",
+                "role": "Travel Editor",
+                "avatar": "https://i.pravatar.cc/150?img=40"
+            },
+            "publishedAt": "2026-05-27",
+            "readTime": "6 min read",
+            "featuredImage": "https://picsum.photos/seed/citywalk/1400/800",
+            "tags": ["Travel", "City", "Culture", "Walking"],
+            "featured": false,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Some of the best travel experiences do not start with a landmark list. They begin with a walk, a turning corner, or a street you did not plan to explore."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Slow Down"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A city reveals itself in fragments: a café window, a mural, a market smell, the rhythm of traffic, the pace of pedestrians. The more you move quickly, the less you notice."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Final Thoughts"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A city is not only what appears in guidebooks. It is also the atmosphere you gather by walking slowly and paying attention."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "slug": "what-makes-an-idea-stick",
+            "title": "What Makes an Idea Stick in the Real World",
+            "excerpt": "Not every good idea is adopted. The ones that last are the ones people can understand, trust, and repeat.",
+            "category": "Strategy",
+            "author": {
+                "name": "Ethan Walker",
+                "role": "Strategy Consultant",
+                "avatar": "https://i.pravatar.cc/150?img=57"
+            },
+            "publishedAt": "2026-05-15",
+            "updatedAt": "2026-05-16",
+            "readTime": "8 min read",
+            "featuredImage": "https://picsum.photos/seed/idea/1400/800",
+            "tags": ["Ideas", "Strategy", "Innovation", "Communication"],
+            "featured": false,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "The value of an idea is not measured only by whether it sounds impressive in a room. An idea becomes useful when it can be understood and carried into action by other people."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Clarity Is Essential"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "People rarely support what they cannot explain to themselves. Simple ideas spread faster because they are easier to communicate and easier to remember."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Final Thoughts"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A strong idea is not just interesting. It is shareable, useful, and aligned with the way people actually live and work."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "slug": "build-a-calmer-digital-life",
+            "title": "How to Build a Calmer Digital Life",
+            "excerpt": "A calmer digital life starts with better boundaries, intentional routines, and less attention forced into the wrong places.",
+            "category": "Lifestyle",
+            "author": {
+                "name": "Claire Adams",
+                "role": "Digital Wellness Writer",
+                "avatar": "https://i.pravatar.cc/150?img=34"
+            },
+            "publishedAt": "2026-05-02",
+            "readTime": "7 min read",
+            "featuredImage": "https://picsum.photos/seed/digitallife/1400/800",
+            "tags": ["Lifestyle", "Digital Wellness", "Focus", "Mindfulness"],
+            "featured": true,
+            "content": [
+                {
+                    "type": "paragraph",
+                    "text": "Digital life can feel constant. Messages, feeds, updates, and notifications create a stream of information that is difficult to ignore."
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Create Boundaries"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A calmer digital life usually begins with small restrictions: fewer notifications, better app defaults, and clearer times when you are offline."
+                },
+                {
+                    "type": "list",
+                    "items": [
+                        "Reduce non-essential notifications",
+                        "Schedule check-in times",
+                        "Keep devices out of bedrooms",
+                        "Choose one or two platforms intentionally",
+                        "Leave space for offline attention"
+                    ]
+                },
+                {
+                    "type": "heading",
+                    "level": 2,
+                    "text": "Final Thoughts"
+                },
+                {
+                    "type": "paragraph",
+                    "text": "A calmer digital life does not mean disappearing from technology. It means giving your attention to the things that matter most."
+                }
+            ]
         }
     ]
 }
